@@ -5,17 +5,21 @@
 
 
 ### About Me 
-- 👀 I’m interested in 
-- 🌱 I’m currently  interested in knewing how to use Jam stack + Mern stack best feature together . 
+
+- 👀 I’m currently interested in knewing how to use Jam stack + Mern stack best features together . 
 - 💞️ I’m looking to collaborate on [EducationRail][educationrail] - something like [this][shiksha]
 - 📫 How to reach me just search gouravmarch20 on google
-- 🥅 2022 Goals: Start Contribute to Open Source projects + & to  learn  & rank  blogs by SEO
+- 🥅 2022 Goals: Start Contribute to Open Source projects +  to learn & rank  blogs by SEO
 - ⚡ Fun fact: I am zero in css even spending a very long time 🤣
 
 
+---
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gouravmarch20&count_private=true&show_icons=true&include_all_commits=true" alt="Amar Gupta | Stats" />
+</details>
 
 ### Languages and Frameworks
-
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
@@ -27,7 +31,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 
-[website]
 <br />
 <br />
 
