@@ -10,7 +10,8 @@
 - 💞️ I’m looking to collaborate on [EducationRail][educationrail] - something like [this][shiksha]
 - 📫 How to reach me just search gouravmarch20 on google
 - 🥅 2022 Goals: Start Contribute to Open Source projects +  to learn & rank  blogs by SEO
-- ⚡ Fun fact: I am zero in css even spending a very long time 🤣
+- ⚡  Fact: I'm always learning something. 
+- 💬 Ask : Can ask me about MERN stack and Stock Market. 
 
 
 ---
@@ -30,6 +31,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+
 
 <br />
 <br />
