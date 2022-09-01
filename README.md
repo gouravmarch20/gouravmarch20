@@ -6,13 +6,11 @@
 
 ### About Me 
 
-- 👀 I’m currently interested in knewing how to use Jam stack + Mern stack best features together . 
+- 👀 I like to Code, Design, Innovate, Experiment and Explore.
+- ⚡ I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.
 - 💞️ I’m looking to collaborate on [EducationRail][educationrail] - something like [this][shiksha]
 - 📫 How to reach me just search gouravmarch20 on google
-- 🥅 2022 Goals: Start Contribute to Open Source projects +  to learn & rank  blogs by SEO
-- ⚡  Fact: I'm always learning something. 
 - 💬 Ask : Can ask me about MERN stack and Stock Market. 
-
 
 ---
 <details>
